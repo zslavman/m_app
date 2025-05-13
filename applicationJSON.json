@@ -1,0 +1,644 @@
+{
+    "filterConfig": {
+        "types": {
+            "8": {
+               "ru": "_",
+               "uk": "_"
+            }
+        },
+        "specialists": {
+            "115": {
+               "ru": "_",
+               "uk": "_"
+            },
+            "116": {
+               "ru": "_",
+               "uk": "_"
+            }
+        },
+        "targets": {
+            "208": {
+               "ru": "_",
+               "uk": "_"
+            }
+        },
+        "issues": {
+            "357": {
+               "ru": "_",
+               "uk": "_"
+            }
+        }
+    },
+    "shopImageSource": "alternativeServer",
+    "forbiddenPages": [],
+    
+    
+    "purchaseItems": [
+        {
+            "order": 0,
+            "purchaseID": "com.zslavman.simpleAboutMajor",
+            "title": {
+                "ru": "Просто о важном",
+                "uk": "Просто про важливе",
+                "en": "Simply about important"
+            },
+            "descript_short": { },
+            "descript_long": {
+                "ru": "МАК в виде простых рисунков с глубоким смыслом, которые помогут в работе с кризисами и экзистенциальными переживаниями человека.\nПростые изображения на которых представлены жизненные вопросы в виде метафор.",
+                "uk": "МАК у вигляді простих малюнків з глибоким змістом, які допоможуть в роботі з кризами і екзистенційними переживаннями людини.\nПрості зображення на яких представлені життєві питання у вигляді метафор.",
+                "en": "MAC in the form of simple drawings with deep meaning, which will help in working with crises and existential human experiences.\nSimple images that represent life issues in the form of metaphors."
+            },
+            "author": {
+                "ru": "Зинько Оксана - психолог, Ph.D.",
+                "uk": "Зінько Оксана - психолог, Ph.D.",
+                "en": "Zinko Oksana - psychologist, Ph.D."
+            },
+            "painter": {
+                "ru": "Далебига Олеся",
+                "uk": "Далебіга Олеся",
+                "en": "Dalebiga Olesya"
+            },
+            "shopFilter" : {
+                "types"       : [0],
+                "specialists" : [100, 101, 102, 103, 104, 106, 107, 108, 109, 110, 111, 112, 113, 114],
+                "targets"     : [201, 202, 203, 204, 205],
+                "issues"      : [305, 306, 308, 312, 315, 316, 318, 319, 350]
+            },
+            "type"          : "mak",
+            "minAppVersion" : 1.0,
+            "cardsCount"    : "57",
+            "imagesURL"     : [],
+            "altImagesURL"  : [],
+            "available"     : false
+        },
+        
+        
+        
+        
+        {
+            "order": 1,
+            "purchaseID": "com.zslavman.hereAndNow",
+            "title": {
+                "ru": "Здесь и сейчас",
+                "uk": "Тут і зараз",
+                "en": "Here and now"
+            },
+            "descript_short": { },
+            "descript_long": {
+                "ru": "МАК в виде авторских фотографий, основанных на принципе «здесь и сейчас», помогут исследовать актуальное состояние, что происходит в настоящем времени, не раздумывая о прошлом и будущем.",
+                "uk": "МАК у вигляді авторських фотографій, які базуються на принципі «тут і тепер», допоможуть дослідити актуальний стан, що відбувається в теперішньому часі, не роздумуючи про минуле і майбутнє.",
+                "en": "MAC in the form of author's photographs based on the principle of «here and now» will help to explore the current state of what is happening in the present time, without thinking about the past and the future."
+            },
+            "author": {
+                "ru": "Зинько Оксана - психолог, Ph.D.",
+                "uk": "Зінько Оксана - психолог, Ph.D.",
+                "en": "Zinko Oksana - psychologist, Ph.D."
+            },
+            "painter": {
+                "ru": "Зинько Вячеслав",
+                "uk": "Зінько В'ячеслав",
+                "en": "Zinko Viacheslav"
+            },
+            "shopFilter" : {
+                "types"       : [4],
+                "specialists" : [100, 101, 102, 103, 104, 106, 107, 108, 109, 112, 113, 114],
+                "targets"     : [202, 203],
+                "issues"      : [305, 306, 308, 320, 322, 339, 352]
+            },
+            "type"          : "mak",
+            "minAppVersion" : 1.0,
+            "cardsCount"    : "56",
+            "imagesURL"     : [
+                "36F04206-1242-4CCB-7DF8-D31D2275FC9E",
+                "4C05252C-0112-B5F4-055E-7D72281DB482",
+                "88425BBB-1580-9C43-29C0-14F343DFB3B0",
+                "0B8E8DF1-9000-110C-038C-D6905B5B21ED"
+            ],
+            "available": true
+        },
+        
+
+        
+        
+        {
+            "order": 9,
+            "purchaseID": "com.zslavman.lifeLine",
+            "title": {
+                "ru": "Линия жизни",
+                "uk": "Лінія життя",
+                "en": "Life line"
+            },
+            "descript_short": { },
+            "descript_long": {
+                "ru": "МАК для исследования, диагностики, коррекции и проектирования жизненного пути человека.\nИллюстрации изображены в виде одной непрерывной линии.",
+                "uk": "МАК для дослідження, діагностики, корекції і проектування життєвого шляху людини.\nІлюстрації зображені у вигляді однієї безперервної лінії.",
+                "en": "MAC for exploration, diagnostics, correction designing of life way.\nIllustrations are presented in a form of one line."
+            },
+            "author": {
+                "ru": "Зинько Оксана - психолог, Ph.D.",
+                "uk": "Зінько Оксана - психолог, Ph.D.",
+                "en": "Zinko Oksana - psychologist, Ph.D."
+            },
+            "painter": {
+                "ru": "Лец Ольга",
+                "uk": "Лець Ольга",
+                "en": "Lets Olga"
+            },
+            "shopFilter" : {
+                "types"       : [0],
+                "specialists" : [100, 101, 102, 103, 104, 108, 109, 113, 114],
+                "targets"     : [202, 203, 204, 207],
+                "issues"      : [300, 304, 306, 322, 336, 342, 347, 350, 354, 356]
+            },
+            "type"          : "mak",
+            "minAppVersion" : 1.0,
+            "cardsCount"    : "99",
+            "imagesURL"     : [
+                "DFF63B0E-59F8-9FDA-F4C3-3C794623C40A",
+                "80833D9D-9194-B4F2-6298-CE86FF435E2E",
+                "52A0467D-B7B4-58BE-D69E-1BE393FF6A58",
+                "77F106C1-FF59-F359-1D87-5704FE077479"
+            ],
+            "available"     : true,
+            "isBestSeller"  : false,
+            "discount"      : 50
+        },
+
+        
+        
+        
+        
+        {
+            "order": 4,
+            "purchaseID": "com.zslavman.yaga",
+            "title": {
+                "ru": "ЯГА",
+                "uk": "ЯГА",
+                "en": "Yaga"
+            },
+            "descript_short": { },
+            "descript_long": {
+                "ru": "В основе МАК «ЯГА» лежат идеи Карла Густава Юнга о коллективном бессознательном и архетипах. Это базовые матрицы - собирательные образы с определенным набором качеств. \nАрхетипы - интуитивные, инстинктивные модели мышления и поведения человека. Эти схемы есть с рождения. С помощью МАК «ЯГА» мы получаем доступ к архетипу Древней Богини, к тем Силам, которыми обладает архетип и помогает найти ресурсы и силы внутри себя, а не во вне. \nБаба Яга - отнюдь не выдуманный персонаж, а женский архетип. Именно архетип, потому что выдумать можно все, что угодно, а типизируется то, что имеется у него в наличии. И если говорить о бабе Яге как об архетипе, то это такая информационная матрица, это большой энергоинформационный комплекс, в котором «зашиты» собранные и обобщенные народной мудростью врожденные психические свойства женщины.",
+                "uk": "В основі МАК «ЯГА» лежать ідеї Карла Густава Юнга про колективне несвідоме і архетипи. Це базові матриці - збірні образи з певним набором якостей. \nАрхетипи - інтуїтивні, інстинктивні моделі мислення і поведінки людини. Ці схеми є з народження. За допомогою МАК «ЯГА» ми отримуємо доступ до архетипу Стародавньої Богині, до тих Сил, якими володіє архетип і допомагає знайти ресурси і сили всередині себе, а не у совнішньому світі. \nБаба Яга - аж ніяк не вигаданий персонаж, а жіночий архетип. Саме архетип, тому що вигадати можна все, що завгодно, а типізуються те, що є у нього в наявності. І якщо говорити про бабу Ягу як про архетип, то це така інформаційна матриця, це великий енергоінформаційний комплекс, в якому «зашиті» зібрані і узагальнені народною мудрістю вроджені психічні властивості жінки.",
+                "en": "The idea by Carl Gustav Jung about collective unconscious and archetypes became the basis of MAC «Yaga». These are the basic matrix – composite images with certain set of qualities. \nArchetypes – intuitive, instinctive models of thinking and human's behavior. They are from the birth. MAC «Yaga» open the entry to archetype of Ancient Goddess, to those Power which archetype has and helps to find resources and energy inside yourself, not to look for outside. \nYaga – is not created hero, She is a woman's archetype. Exactly archetype, because you can create everything you want, but you can type only what you have inside. If to talk about Yaga as about archetype, this is like an informational matrice, it is a great energetic informational complex, and summarized by folk wisdom inborn mental features of woman are hidden in it."
+            },
+            "author": {
+                "ru": "Ходулина Руслана - психолог, тренер, арт-терапевт, автор колод МАК и книг для работы с МАК",
+                "uk": "Ходуліна Руслана - психолог, тренер, арт-терапевт, автор колод МАК і книг для роботи з МАК",
+                "en": "Khodulina Ruslana - psychologist, trainer, art therapist, author of MAC decks and books for working with MAC"
+            },
+            "painter": {
+                "ru": "Адам Ольга",
+                "uk": "Адам Ольга",
+                "en": "Adam Olga"
+            },
+            "shopFilter" : {
+                "types"       : [1, 2],
+                "specialists" : [100, 101, 102, 103, 104, 109, 110, 111, 112, 113, 114],
+                "targets"     : [202, 203, 204],
+                "issues"      : [300, 302, 305, 309, 312, 314, 315, 356, 343, 345]
+            },
+            "type"            : "mak",
+            "minAppVersion"   : 1.0,
+            "cardsCount"      : "47",
+            "imagesURL"       : [
+                "951D5B89-D984-2FBD-60F1-352176BCBAFF",
+                "73D9D939-5B4B-FC8C-F24E-9CE532222A53",
+                "36D7B15E-E62D-5DDB-54E8-D0900E92381D",
+                "2D0E5A0C-D251-0C38-7215-D3C53BEAC58A"
+            ],
+            "available" : true
+        },
+        
+        
+        
+        
+
+        {
+            "order": 5,
+            "purchaseID": "com.zslavman.childhood",
+            "title": {
+                "ru": "Childhood (Детство)",
+                "uk": "Childhood (Дитинство)",
+                "en": "Childhood"
+            },
+            "descript_short": { },
+            "descript_long": {
+                "ru": "Childhood - проективная диагностическая методика, которая состоит из цветных нарисованных карандашом картинок и предназначена для исследования личностной сферы ребенка. \nChildhood - это инструмент для психологов и психотерапевтов, который поможет: <list>\n- продиагностировать психоэмоциональное состояние ребенка; \n- исследовать страхи, фобии, тревоги; \n- понять психологический климат в семье; \n- облегчить обсуждение драматических событий из жизни ребенка; \n- нивелировать психологические защиты во время психодиагностики; \n- наладить контакт во время психотерапевтической работы.</list> \n\nВ МАК заложено концептуальные подходы, которые базируются на детском апперцептивном тесте САТ.",
+                "uk": "Childhood - проективна діагностична методика, яка складається з кольорових намальованих олівцем картинок і призначена для дослідження особистісної сфери дитини. \nChildhood - це інструмент для психологів і психотерапевтів, який допоможе: <list>\n- продіагностувати психоемоційний стан дитини; \n- досліджувати страхи, фобії, тривоги; \n- зрозуміти психологічний клімат в родині; \n- полегшити обговорення драматичних подій з життя дитини; \n- нівелювати психологічних захистів під час психодіагностики; \n- налагодити контакт під час психотерапевтичної роботи.</list> \n\nВ МАК закладено концептуальні підходи, які базуються на дитячому апперцептивному тесті САТ.",
+                "en": "Childhood – proactive diagnostic methodology, which consists of coloured pictures painted with a pencil, and this methodology has a mission to explore the sphere of child. \nChildhood – is an instrument for psychologist and therapists, which can help: <list>\n- to do the diagnostic of psycho-emotional child condition; \n- to explore the scares, phobias, worries; \n- to understand psychological climate in the family; \n- to make discussion of dramatic events in the life of child easy; \n- to reduce psychological obstacles during diagnostics; \n- to establish a rapport during sessions.</list> \n\n Conceptual approaches, which are based on child apperceptive test TAT, are laid down into MAC."
+            },
+            "author": {
+                "ru": "Святенко Юлия - кандидат психол. наук, доцент",
+                "uk": "Святенко Юлія - кандидат психол. наук, доцент",
+                "en": "Svyatenko Yulia - candidate of psychology sciences, assistant professor"
+            },
+            "painter": {
+                "ru": "Ирина Хауха",
+                "uk": "Ірина Хауха",
+                "en": "Irina Khaukha"
+            },
+            "shopFilter" : {
+                "types"       : [5],
+                "specialists" : [100, 101, 105],
+                "targets"     : [200, 205],
+                "issues"      : [313, 320, 323, 337]
+            },
+            "type"            : "mak",
+            "minAppVersion"   : 1.0,
+            "cardsCount"      : "48",
+            "imagesURL"       : [
+                "973EA006-350A-7191-5E5F-B514A64EF2AD",
+                "0957A1D8-674F-FCE1-C402-23CEC1FBFFBC",
+                "2748A72B-349A-4726-CF06-D96747B5A86B",
+                "4FC466C5-3B0B-52F7-6377-0DA7B515CBAF"
+            ],
+            "available" : true
+        },
+        
+        
+        
+        
+        
+        {
+            "order": 6,
+            "purchaseID": "com.zslavman.myMasks",
+            "title": {
+                "ru": "Мои Маски",
+                "uk": "Мої Маски",
+                "en": "My Masks"
+            },
+            "descript_short": { },
+            "descript_long": {
+                "ru": "Колода основана на основных категориях женских архетипов: Королева, Хозяйка, Любовница, Девочка. \nМАК «Мои Маски» позволяет исследовать себя во всех ипостасях, в том числе, помогая при работе со своей Теневой стороной.",
+                "uk": "Колода заснована на основних категоріях жіночих архетипів: Королева, Господиня, Коханка, Дівчинка. \nМАК «Мої Маски» дозволяє досліджувати себе у всіх іпостасях, в тому числі, допомагаючи при роботі зі своєю Тіньовою стороною.",
+                "en": "The deck is based on the main categories of woman's archetypes: The Queen, the Hostess, the Lover, the Girl. MAC «My Masks» let us to explore ourselves in all positions including they help to work with our Darkness."
+            },
+            "author": {
+                "ru": "Шельвинская Наталья - психотерапевт, игропрактик, автор МАК и т-игры",
+                "uk": "Шельвінская Наталя - психотерапевт, ігропрактік, автор МАК і т-гри",
+                "en": "Shelvinskaya Natalya - psychotherapist, game practitioner, author of MAC and transformation-games"
+            },
+            "painter": {
+                "ru": "Ирина Искра",
+                "uk": "Ірина Іскра",
+                "en": "Irina Iskra"
+            },
+            "shopFilter" : {
+                "types"       : [1, 2],
+                "specialists" : [100, 101, 103, 104, 111, 112, 113, 114],
+                "targets"     : [202, 203],
+                "issues"      : [300, 305, 308, 312, 314, 315, 318, 322, 323, 345, 356]
+            },
+            "type"            : "mak",
+            "minAppVersion"   : 1.0,
+            "cardsCount"      : "53",
+            "imagesURL"       : [
+                "87C76C26-E2F6-BC19-EF16-F44F7A972012",
+                "B1E508C6-AFEE-E4F9-8CC9-196274823487",
+                "31C6FA3D-C8EB-4CF6-2246-A4A0A70511B8",
+                "64A1BB02-0BCE-130E-204E-BD22B0715224"
+            ],
+            "available": true
+        },
+        
+        
+        
+        
+        
+        {
+            "order": 7,
+            "purchaseID": "com.zslavman.problemChild",
+            "title": {
+                "ru": "сЛОЖное ДитЯ",
+                "uk": "Складне Дитя",
+                "en": "Problem Child"
+            },
+            "descript_short": { },
+            "descript_long": {
+                "ru": "Терапевтический инструмент для работы с травмой и поиска ресурсов, а также для работы с подростками. \nМАК «сЛОЖное дитЯ» - состоит из двух колод. Изображения черно-белые и цветные, где каждая из черно-белых карт отображает застывший трагический и травмирующий сюжет, а цветные в противовес важные семейные ценности.",
+                "uk": "Терапевтичний інструмент для роботи з травмою і пошуком ресурсів, а також для роботи з підлітками. \nМАК «Складне Дитя» - складається з двох колод. Зображення чорно-білі і кольорові, де кожна з чорно-білих карток відображає застиглий трагічний і травмуючий сюжет, а кольорові на противагу важливі сімейні цінності.",
+                "en": "Therapeutic instrument to work with trauma and looking for resources and also to work with teenagers. \nMAC «Problem Child» consists of two decks. The pictures are black and white and coloured, where every black and white reflects frozen, tragic, traumatic episode, and coloured in contrast reflects important family values."
+            },
+            "author": {
+                "ru": "Шельвинская Наталья - психотерапевт, игропрактик, автор МАК и т-игр",
+                "uk": "Шельвінская Наталя - психотерапевт, ігропрактік, автор МАК і т-ігор",
+                "en": "Shelvinskaya Natalya - psychotherapist, game practitioner, author of MAC and transformation-games"
+            },
+            "painter": {
+                "ru": "Ирина Искра",
+                "uk": "Ірина Іскра",
+                "en": "Irina Iskra"
+            },
+            "shopFilter" : {
+                "types"       : [2, 5],
+                "specialists" : [100, 101, 104, 105, 108, 109, 112, 113],
+                "targets"     : [200, 201, 204, 205],
+                "issues"      : [311, 312, 329, 335, 336, 337, 339, 347, 348, 349],
+                "subDecks"    : [402]
+            },
+            "type"            : "makDouble",
+            "minAppVersion"   : 1.0,
+            "cardsCount"      : "2 ✕ 44",
+            "imagesURL"       : [
+                "27C23F70-232A-156E-1BF7-A5E875E054DC",
+                "A3928F7C-BEC1-4E24-8825-1B6A73CC92F8",
+                "45E7C7B9-5577-B7D5-CFA0-AD049C4E443D",
+                "57383B64-C903-D471-D532-5114CAB9206F"
+            ],
+            "available" : true
+        },
+        
+        
+        
+        
+        
+        {
+            "order": 8,
+            "purchaseID": "com.zslavman.godsAdvices",
+            "title": {
+                "ru": "Советы богинь",
+                "uk": "Поради богинь",
+                "en": "Goddesses advices"
+            },
+            "descript_short": { },
+            "descript_long": {
+                "ru": "Колода основана на семи архетипах богинь Олимпа. Каждый образ выражает определенную стратегию поведения женщины в различных ситуациях. \nОсновой для создания карт послужила книга Джин Шинода Болен - «Богини в каждой женщине». Колода объединяет семь богинь Олимпа, семь женских архетипов. Каждый символ объединяет 4 образа, связанные с богинями. Только в образе богини Артемиды 5 образов (архетипическая опора женщины на внутренний образ себя). Каждое изображение богини соотносится с определенными мифами и историями о ней. Каждая выбирает определенную стратегию женского поведения в тех или иных случаях.",
+                "uk": "Колода заснована на семи архетипах богинь Олімпу. Кожен образ виражає певну стратегію поведінки жінки в різних ситуаціях. \nОсновою для створення карток послугувала книга Джин Шинода Болен - «Богині в кожній жінці». Колода об'єднує сім богинь Олімпу, сім жіночих архетипів. Кожен символ об'єднує 4 образи, пов'язані з богинями. Тільки в образі богині Артеміди 5 образів (архетипова опора жінки на внутрішній образ себе). Кожне зображення богині співвідноситься з певними міфами і історіями про неї. Кожна вибирає певну стратегію жіночої поведінки в тих чи інших випадках.",
+                "en": "The deck is based on the 7 archetypes of Goddesses of the Olympus. Every persona express the strategy of women's behavior in different situations. \nThe deck is based on the book «Goddesses in every woman» by Jean Shinoda Bolen. The deck combines 7 Goddess of Olympus, 7 woman's archetypes. Every symbol combines 4 characters, connected with Godess. Only Artemida has 5 persona (archetypal support of woman on her inner image). Every picture of Goddess relates to a certain mythes and stories about her. Every of them chooses her own strategy of behaviour according to the situation."
+            },
+            "author": {
+                "ru": "Шагина Надежда - кандидат техн. наук, автор трансф. игр и МАК; Фёдорова Анна - психолог, автор трансф. игр и МАК",
+                "uk": "Шагіна Надія - кандидат техн. наук, автор трансф. ігор та МАК; Федорова Анна - психолог, автор трансф. ігор та МАК",
+                "en": "Shagina Nadezhda - candidate of technical sciences, author of transf. games and MAC; Fedorova Anna - psychologist, author of transf. games and MAC"
+            },
+            "painter": {
+                "ru": "Шарапова Елена, Михеева Юлия",
+                "uk": "Шарапова Олена, Міхєєва Юлія",
+                "en": "Sharapova Elena, Mikheeva Julia"
+            },
+            "shopFilter" : {
+                "types"       : [0],
+                "specialists" : [100, 102, 103, 104, 107, 111, 112, 113, 114],
+                "targets"     : [202, 206],
+                "issues"      : [300, 309, 312, 314, 315, 339, 343, 354, 355, 356]
+            },
+            "type"            : "mak",
+            "minAppVersion"   : 1.0,
+            "cardsCount"      : "29",
+            "imagesURL"       : [
+                "B4347300-3708-B862-54AA-7AA0B2EA5341",
+                "48933D74-F14C-F93B-91EC-834B2A161D92",
+                "B1F5E689-5EF8-6ACD-D6B0-2E5E8EADE04D",
+                "F37195AD-8539-FBDD-FFA5-9F4753727E3E"
+            ],
+            "available" : false
+        },
+        
+        
+
+        
+        
+        
+        {
+            "order": 12,
+            "purchaseID": "com.zslavman.imNotMyself",
+            "title": {
+                "ru": "Я не Я",
+                "uk": "Я не Я",
+                "en": "I'm not myself"
+            },
+            "descript_short": { },
+            "descript_long": {
+                "ru": "Колода помогает познать самого себя через образы в условиях различных реальных и воображаемых ситуаций, соотнести себя с ними. \nЯ-концепция - это относительно устойчивая, в большей или меньшей степени осознаваемая система представлений индивида о самом себе, на основе которой он относится к самому себе и строит свое взаимодействие с другими людьми.",
+                "uk": "Колода допомагає пізнати самого себе через образи в умовах різних реальних і уявних ситуаціях, співвіднести себе з ними. \nЯ-концепція - це відносно стійка, більшою чи меншою мірою усвідомлювана система уявлень індивіда про самого себе, на основі якої він відноситься до самого себе і будує свою взаємодію з іншими людьми.",
+                "en": "The deck helps to know oneself through images in various real and imaginary situations, correlating oneself with them. \nMyself-concept is a relatively stable, more or less conscious system of the individual's ideas about himself, on the basis of which he refers to himself and builds his interaction with other people."
+            },
+            "author": {
+                "ru": "Зинько Оксана - психолог, Ph.D.",
+                "uk": "Зінько Оксана - психолог, Ph.D.",
+                "en": "Zinko Oksana - psychologist, Ph.D."
+            },
+            "painter": {
+                "ru": "Мирошниченко Анастасия",
+                "uk": "Мірошниченко Анастасія",
+                "en": "Miroshnichenko Anastasia"
+            },
+            "shopFilter" : {
+                "types"       : [0, 5],
+                "specialists" : [100, 101, 102, 104, 109, 112, 113, 114],
+                "targets"     : [201, 202, 203, 204],
+                "issues"      : [300, 305, 306, 308, 312, 318, 322, 354, 355, 356]
+            },
+            "type"            : "mak",
+            "minAppVersion"   : 1.0,
+            "cardsCount"      : "32",
+            "imagesURL"       : [
+                "9121DDBF-AB57-47E0-A93D-26EDB741399C",
+                "2BB0C7D9-39E9-8A74-C009-3D5A03E7D6A2",
+                "12471AFE-DF9D-9EB8-7BF1-ED78CE9D1FF7",
+                "AC8E7CE9-2714-CECF-8BCF-62E18B381811"
+            ],
+            "available" : true
+        },
+        
+        
+        
+        
+        
+        {
+            "order": 13,
+            "purchaseID": "com.zslavman.pet",
+            "title": {
+                "ru": "Petty Pet",
+                "uk": "Petty Pet",
+                "en": "Petty Pet"
+            },
+            "descript_short": { },
+            "descript_long": {
+                "ru": "МАК позволяет иследовать в себе источник энергии, ослабление напряжения, усиление удовольствия и уменьшение состояния дискомфорта. \nВ МАК заложено методику психоаналитической теории, для иследования бессознательной части психики, совокупности инстинктивных влечений и желаний человека.",
+                "uk": "МАК дозволяє досліджувати в собі джерело енергії, ослаблення напруги, посилення задоволення і зменшення стану дискомфорту. \nУ МАК закладено методику психоаналітичної теорії, для дослідження несвідомої частини психіки, сукупності інстинктивних потягів і бажань людини.",
+                "en": "MAC allows you to explore self source of energy, relieve stress, increase pleasure and reduce the state of discomfort. \nContains the methodology of psychoanalytic theory for the study of the unconscious part of the psyche, the aggregate of human instinctual drives and desires."
+            },
+            "author": {
+                "ru": "Зинько Оксана - психолог, Ph.D.",
+                "uk": "Зінько Оксана - психолог, Ph.D.",
+                "en": "Zinko Oksana - psychologist, Ph.D."
+            },
+            "painter": {
+                "ru": "Леуш Татьяна",
+                "uk": "Леуш Тетяна",
+                "en": "Leush Tatiana"
+            },
+            "shopFilter" : {
+                "types"       : [0, 2],
+                "specialists" : [100, 101, 102, 104, 105, 113],
+                "targets"     : [200, 201, 202, 205],
+                "issues"      : [308, 312, 315, 322, 354, 355, 356]
+            },
+            "type"            : "mak",
+            "minAppVersion"   : 1.0,
+            "cardsCount"      : "48",
+            "imagesURL"       : [
+                "81F57F0E-757C-6F21-A4A0-4C1A7BEE4F94",
+                "CCCC7A3E-26A3-B4E5-11A4-420BECFE5DDA",
+                "A59624FD-B642-F7AF-C9C4-73C169719804",
+                "F3B0984D-6B4E-A225-88CF-A239D5612B7B"
+            ],
+            "available" : true
+        },
+        
+        
+        
+        
+        
+        {
+            "order": 14,
+            "purchaseID": "com.zslavman.fearAsResource",
+            "title": {
+                "ru": "Страх как ресурс",
+                "uk": "Страх як ресурс",
+                "en": "Fear as my resource"
+            },
+            "descript_short": { },
+            "descript_long": {
+                "ru": "МАК предназначены для осознания собственных страхов в социальных отношениях, причин стресса и неудовлетворенности, формирования навыков саморегуляции. \nЭта психокоррекционная колода, выполненная в стиле скетч-арт зарисовок, поможет выявить фрустры («неудач», «тщетного ожидания», «расстройства замыслов»), причины стрессового состояния и неудовлетворенности социальной жизнью; проработать страхи, перевести внутриличностный конфликт с деструктивной в конструктивную плоскость; способствует развитию умения регулировать собственные эмоциональные состояния",
+                "uk": "МАК призначені для усвідомлення власних страхів у соціальних відносинах, причин стресу та незадоволеності, формування навичок саморегуляції. \nЦя психокорекційна колода, що виконана в стилі скетч-арт замальовок, допоможе виявити фрустри («невдач», «марного очікування», «розлади задумів»), причини стресового стану та незадоволеності соціальним життям; опрацювати страхи, перевести внутрішньоособистісний конфлікт із деструктивної в конструктивну площину; сприяє розвитку вміння регулювати власні емоційні стани.",
+                "en": "MAC are designed to realize one's own fears in social relations, the causes of stress and dissatisfaction, the formation of self-regulation skills. \nThis psycho-corrective deck, which made in the style of sketch art, will help to identify frustrations («failures», «futile expectations», «disorders of intentions»), the causes of stress and dissatisfaction with social life; work out fears, transfer intrapersonal conflict from a destructive to a constructive plane; contributes to the development of the ability to regulate self emotional states."
+            },
+            "author": {
+                "ru": "Петрова Алла - психолог, психотерапевт, Ph.D.",
+                "uk": "Петрова Алла – психолог, психотерапевт, Ph.D.",
+                "en": "Petrova Alla - psychologist, psychotherapist, Ph.D."
+            },
+            "painter": {
+                "ru": "Бублиенко Александра",
+                "uk": "Бублієнко Олександра",
+                "en": "Bublienko Alexandra"
+            },
+            "shopFilter" : {
+                "types"       : [0, 5],
+                "specialists" : [100, 101, 102, 104, 108, 113],
+                "targets"     : [201, 202, 203, 207],
+                "issues"      : [304, 306, 318, 323, 330, 332, 335, 341, 347, 352],
+                "subDecks"    : [402]
+            },
+            "type"            : "makDouble",
+            "minAppVersion"   : 1.0,
+            "cardsCount"      : "2 ✕ 45",
+            "subDeckNames"    : [
+                {
+                    "ru": "Социальные страхи",
+                    "uk": "Соціальні страхи",
+                    "en": "Social fears"
+                },
+                {
+                    "ru": "Ресурсные карты",
+                    "uk": "Ресурсні картки",
+                    "en": "Resource cards"
+                }
+            ],
+            "imagesURL"       : [
+                "B5BDC800-02BD-0090-9264-5DA971670DCB",
+                "474BC9C0-08BC-0BEB-E217-7574A59558F8",
+                "711865C6-D185-0E6C-96BD-90ADEC69C7E9",
+                "9D0AD611-8E78-E366-F3F6-DDB61903E3E7"
+            ],
+            "available"       : false
+        },
+        
+        
+        
+        
+        
+        {
+            "order": 15,
+            "purchaseID": "com.zslavman.rasskazka",
+            "title": {
+                "ru": "Рассказка",
+                "uk": "Розказка",
+                "en": "Storyteller"
+            },
+            "descript_short": { },
+            "descript_long": {
+                "ru": "Колода разболтает даже молчуна разнообразием сюжетов из жизни каждого человека благодаря эффекту мягкого, безопасного «контейнирования» негатива.\nВсе сюжеты данной колоды  дополнены метафорическими сочетаниями в центральных рисунках и флористическими орнаментами по периметру для создания арт-терапевтического эффекта «рамки» и «контейнера» в мягкой, естественной презентации акварелью.",
+                "uk": "Колода розбазікає навіть мовчуна різноманітністю сюжетів із життя кожної людини завдяки ефекту м'якого, безпечного «контейнування» негативу. \nУсі сюжети цієї колоди доповнені метафоричними поєднаннями в центральних малюнках та флористичними орнаментами по периметру для створення арт-терапевтичного ефекту «рамки» та «контейнера» в м’якій, природній презентації акварелью.",
+                "en": "The deck will make to speak even taciturn with a variety of stories from the life of each person, thanks to the effect of soft, safe «containerization» of negativity. \nAll the storys of this deck are complemented by metaphorical combinations in the central drawings and floral ornaments around the perimeter to create an art-therapeutic «frame» and «container» effect in a soft, natural watercolor presentation."
+            },
+            "author": {
+                "ru": "Забзалюк-Брус Татьяна - психолог, педагог, автор МАК-курсов",
+                "uk": "Забзалюк-Брус Тетяна - психолог, педагог, автор МАК-курсів",
+                "en": "Zabzalyuk-Brus Tatiana - psychologist, teacher, author of MAC-courses"
+            },
+            "painter": {
+                "ru": "Подлеснова Светлана",
+                "uk": "Подлєснова Світлана",
+                "en": "Podlesnova Svetlana"
+            },
+            "shopFilter" : {
+                "types"       : [0, 2, 5],
+                "specialists" : [100, 101, 102, 104, 105, 109, 112, 114],
+                "targets"     : [200, 201, 205, 206],
+                "issues"      : [311, 312, 316, 319, 320, 335, 337, 345, 352, 354]
+            },
+            "type"            : "mak",
+            "minAppVersion"   : 1.0,
+            "cardsCount"      : "55",
+            "imagesURL"       : [
+                "9B9D49C5-119E-E23C-6429-FAE0AD1B402E",
+                "DCF58627-CC34-C437-252A-81D8D3039458",
+                "245E2916-CDAF-5959-B350-A5761EEDE2ED",
+                "811821A3-BD98-A3B1-3FD8-896B7BBB0E91"
+            ],
+            "available": true
+        },
+        
+        
+        
+        
+        
+        {
+            "order": 16,
+            "purchaseID": "com.zslavman.moments",
+            "title": {
+                "ru": "Мгновения",
+                "uk": "Миті",
+                "en": "Moments"
+            },
+            "descript_short": { },
+            "descript_long": {
+                "ru": "Первые МАК, созданные на основе сгенерированных нейросетью изображений, которые дают психическим процессам полную, неограниченную свободу, помогая легче разобраться в вопросах неопределенности. \nУ карт нет верха и низа, левой и правой сторон. Нет правил и  нет ограничений. Каждый определяет положение карты сам и видит в изображении что-то свое. Это дает возможность развивать способность к абстрактному мышлению, которая есть одной  из способностей психики человека, отличающая его от животных. \nБлагодаря этой возможности мы можем решать жизненные вопросы большой сложности и изобретать новое, то, чего до сих пор не существовало, что сначала зародилось лишь в нашем уме. \nИзображения в электронной и печатной версиях колод отличаются и не повторяются. Сохранен стиль и концепция образов. Колоды  работают как отдельно, так и дополняя друг друга.",
+                "uk": "Перші МАК, створені на основі зображень, що згенеровані нейромережею, які дають психічним процесам повну, необмежену свободу, допомагаючи легше розібратися в питаннях невизначеності. \nУ карт немає верху та низу, лівої та правої сторін. Немає правил та немає обмежень. Кожен визначає положення картки сам і бачить у зображенні щось своє. Це дає можливість розвивати здатність до абстрактного мислення, яка є однією із здібностей психіки людини, що відрізняє її від тварин. \nЗавдяки цій можливості ми можемо вирішувати життєві питання великої складності та винаходити нове те, чого досі не існувало, що спочатку зародилося лише в нашому розумі. \nЗображення в електронній та друкованій версіях колод відрізняються та не повторюються. Збережено стиль та концепція образів. Колоди працюють як окремо, так і доповнюючи одна одну.",
+                "en": "The first MAC based on neural network-generated images that give mental processes complete, unlimited freedom, helping to more easily understand questions of uncertainty. \nCards have no top and bottom, left and right sides. There are no rules and no restrictions. Everyone determines the position of the card himself and sees something of his own in the image. This makes it possible to develop the ability for abstract thinking, which is one of the abilities of the human psyche that distinguishes it from animals. \nThanks to this opportunity, we can solve vital problems of great complexity and invent something new, something that did not exist until now, which primary was born only in our mind. \nImages in the app-deck and deck hard copy are different and are not repeated. The style and concept of images has been preserved. The decks work both separately and complementing each other."
+            },
+            "author": {
+                "ru": "Антоненко Наталия - психолог, арт-терапевт, координатор социального проекта «Разом»",
+                "uk": "Антоненко Наталія - психолог, арт-терапевт, координатор соціального проекту «Разом»",
+                "en": "Antonenko Natalia - psychologist, art therapist"
+            },
+            "painter": {
+                "ru": "Антоненко Наталия",
+                "uk": "Антоненко Наталія",
+                "en": "Antonenko Natalia"
+            },
+            "shopFilter" : {
+                "types"       : [0],
+                "specialists" : [100, 101, 102, 104, 113, 114],
+                "targets"     : [201, 202, 203],
+                "issues"      : [300, 305, 308, 309, 319, 322, 323, 345, 346, 350]
+            },
+            "type"            : "mak",
+            "minAppVersion"   : 1.0,
+            "cardsCount"      : "50",
+            "imagesURL"       : [
+                "4206AC10-A1D5-51D1-B49A-A21D56064F55",
+                "6B27BD59-721F-0EA1-448E-F47C6544873D",
+                "5B11D6BD-2944-CE05-33EE-5E1350C95271",
+                "F520BA78-D6E7-7B4A-5E72-696F084DB6E5"
+            ],
+            "available": true
+        }
+        
+        
+    ]
+}
